@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">旋转控制</string>
+    <string name="switch_button_text">启动服务</string>
+    <string name="pref_title_enabled">启动服务</string>
+    <string name="title_activity_scrolling">配置</string>
+    <string name="pref_category_title_service">服务</string>
+    <string name="pref_category_title_settings">设置</string>
+    <string name="pref_title_grant_permissions">授予权限</string>
+    <string name="notification_title">后台服务</string>
+    <string name="notification_text">服务正在后台运行</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Screenrotate</string>
+    <string name="switch_button_text">Activate service</string>
+    <string name="pref_title_enabled">Enabled</string>
+    <string name="pref_key_enabled" translatable="false">Service_Enabled</string>
+    <string name="title_activity_scrolling">Settings</string>
+    <string name="pref_category_title_service">Service</string>
+    <string name="pref_category_key_service" translatable="false">Service</string>
+    <string name="pref_category_key_settings" translatable="false">Settings</string>
+    <string name="pref_category_title_settings">Settings</string>
+    <string name="pref_title_grant_permissions">Grant Permissions</string>
+    <string name="pref_key_grant_permissions" translatable="false">Grant_Permissions</string>
+    <string name="notification_title">Backend Service</string>
+    <string name="notification_text">Service Running</string>
+</resources>

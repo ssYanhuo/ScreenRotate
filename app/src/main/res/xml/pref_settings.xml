@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/pref_category_title_service"
+        android:key="@string/pref_category_key_service">
+
+        <SwitchPreference
+            android:key="@string/pref_key_enabled"
+            android:title="@string/pref_title_enabled">
+        </SwitchPreference>
+        <Preference
+            android:title="@string/pref_title_grant_permissions"
+            android:key="@string/pref_key_grant_permissions">
+        </Preference>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/pref_category_title_settings"
+        android:key="@string/pref_category_title_settings">
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
