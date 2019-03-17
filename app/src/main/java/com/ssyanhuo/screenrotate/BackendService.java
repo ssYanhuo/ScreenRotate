@@ -235,8 +235,7 @@ public class BackendService extends Service {
             }
         }
         private int nowRotate(){
-            int i = windowManager.getDefaultDisplay().getRotation();
-            return i;
+            return windowManager.getDefaultDisplay().getRotation();
         }
     }
 
